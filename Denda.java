@@ -2,7 +2,7 @@ public class Denda {
     private Peminjaman peminjaman ;
     private int hariTerlambat ;
     private int TARIF_DENDA = 10000;
-    private int hapus ;
+    private int hapus ;  
     
 
     public Denda(Peminjaman Peminjaman, int hariTerlambat){
